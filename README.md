@@ -7,7 +7,7 @@
 
 - 🎓 &nbsp; Estudio Desarrollo en Software en el IFTS Nº18.
 
-- 🌱 &nbsp; Me enfoco al desarrollo web pero busco siempre ampliar las fronteras del conocimiento relacionado a la programación en general.
+- 🌱 &nbsp; Me enfoco al desarrollo web pero busco siempre ampliar las fronteras del conocimiento en relacion a la programación en general.
 
 - ✍️ &nbsp; Me gusta aprender por lo que mi hobbie se basa siempre en seguir incorporando mayor conocimiento en lo posible.
 
