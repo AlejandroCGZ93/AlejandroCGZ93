@@ -1,16 +1,55 @@
-### Hi there 👋
+### Hola soy Alejandro 👋
+
+
+<h3> 👨🏻•💻 Sobre mí: </h3>
+
+- 🤔 &nbsp; Me gusta explorar distintos lenguajes y sus tecnologías, actualmente mi stack principal es JavaScript utilizandolo en React pero estoy abierto a nuevos desafíos, por lo que tendré una variedad de proyectos en mi repositorio.
+
+- 🎓 &nbsp; Estudio Desarrollo en Software en el IFTS Nº18.
+
+- 🌱 &nbsp; Me enfoco al desarrollo web pero busco siempre ampliar las fronteras del conocimiento relacionado a la programación en general.
+
+- ✍️ &nbsp; Me gusta aprender por lo que mi hobbie se basa siempre en seguir incorporando mayor conocimiento en lo posible.
+
+
+
+<h3>🛠 Hablidades técnicas</h3>
+
+
+
+- 💻 &nbsp;  C# | .Net | NodeJS 
+
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS 
 
 <!--
-**AlejandroCGZ93/AlejandroCGZ93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🛢 &nbsp; SQL 
+- 🔧 &nbsp; Git | Visual Studio | Visual Studio Code
 -->
+
+
+
+<h3>🛠 Aprendiendo</h3>
+
+- 🔧 &nbsp; ReactJS | NodeJS | MongoDB | C# | SQL | .Net
+
+<hr>
+
+
+
+<br/>
+
+<br/>
+
+<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam0110&show_icons=true)
+
+<br><br>
+
+
+
+<hr>
+
+
+
+
