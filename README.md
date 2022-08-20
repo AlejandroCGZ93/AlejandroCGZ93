@@ -30,5 +30,5 @@
 
 <h3>🛠 Aprendiendo</h3>
 
-- 🔧 &nbsp; ReactJS | NodeJS | MongoDB | C# | SQL | .Net
+- 🔧 &nbsp; ReactJS | NodeJS | MongoDB | C# | SQL | .Net | Java
 
