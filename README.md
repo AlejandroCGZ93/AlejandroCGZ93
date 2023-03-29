@@ -3,13 +3,13 @@
 
 <h3> 👨🏻•💻 Sobre mí: </h3>
 
-- 🤔 &nbsp; Me gusta explorar distintos lenguajes y sus tecnologías, actualmente mi stack principal es JavaScript utilizandolo en React pero estoy abierto a nuevos desafíos, por lo que tendré una variedad de proyectos en mi repositorio.
+- 🤔 &nbsp; Mi lenguajes principales son Javascript, PHP y SQL.
 
-- 🎓 &nbsp; Estudio Desarrollo en Software en el IFTS Nº18.
+- 🎓 &nbsp; Estudio para ser Técnico en Desarrollo de Software en el IFTS Nº18(CABA).
 
-- 🌱 &nbsp; Me enfoco al desarrollo web pero busco siempre ampliar las fronteras del conocimiento en relacion a la programación en general.
+- 🌱 &nbsp; Me enfoco en el desarrollo web pero busco siempre ampliar las fronteras del conocimiento en relacion a la programación en general.
 
-- ✍️ &nbsp; Me gusta aprender por lo que mi hobbie se basa siempre en seguir incorporando mayor conocimiento en lo posible.
+- ✍️ &nbsp; Me gusta incorporar nuevos conocimientos por lo que estoy abierto a aprender constantemente.
 
 
 
@@ -17,9 +17,9 @@
 
 
 
-- 💻 &nbsp;  C# | .Net | NodeJS 
+- 💻 &nbsp;  PHP  | SQL | MySQL | CodeIgniter
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS 
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS | VUE | Nuxt JS
 
 <!--
 - 🛢 &nbsp; SQL 
@@ -30,5 +30,5 @@
 
 <h3>🛠 Aprendiendo</h3>
 
-- 🔧 &nbsp; ReactJS | NodeJS | MongoDB | C# | SQL | .Net | Java
+- 🔧 &nbsp; Typescript | Python | C#
 
