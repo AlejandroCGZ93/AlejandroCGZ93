@@ -17,18 +17,17 @@
 
 
 
-- 💻 &nbsp;  PHP  | SQL | MySQL | CodeIgniter
+- 💻 &nbsp;  PHP | CodeIgniter | Python
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS | VUE | Nuxt JS
+- 🌐 &nbsp;  JavaScript | Bootstrap | ReactJS | VUE | Nuxt JS
 
-<!--
-- 🛢 &nbsp; SQL 
-- 🔧 &nbsp; Git | Visual Studio | Visual Studio Code
--->
+- 🛢 &nbsp; SQL | MySQL
+
+- 🔧 &nbsp; Git | Visual Studio Code
 
 
 
 <h3>🛠 Aprendiendo</h3>
 
-- 🔧 &nbsp; Typescript | Python | C#
+- 🔧 &nbsp; Typescript | Python
 
