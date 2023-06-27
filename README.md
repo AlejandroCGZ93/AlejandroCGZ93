@@ -19,7 +19,7 @@
 
 - 💻 &nbsp;  PHP | CodeIgniter | Python
 
-- 🌐 &nbsp;  JavaScript | Bootstrap | ReactJS | VUE | Nuxt JS
+- 🌐 &nbsp;  JavaScript | Bootstrap | ReactJS 
 
 - 🛢 &nbsp; SQL | MySQL
 
