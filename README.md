@@ -3,7 +3,7 @@
 
 <h3> 👨🏻•💻 Sobre mí: </h3>
 
-- 🤔 &nbsp; Mi lenguajes principales son Javascript, PHP y SQL.
+- 🤔 &nbsp; Mi lenguajes principales son Javascript, C# y SQL.
 
 - 🎓 &nbsp; Estudio para ser Técnico en Desarrollo de Software en el IFTS Nº18(CABA).
 
@@ -17,17 +17,17 @@
 
 
 
-- 💻 &nbsp;  PHP | CodeIgniter | Python
+- 💻 &nbsp;  PHP | CodeIgniter | Python | C# | .NET
 
-- 🌐 &nbsp;  JavaScript | Bootstrap | ReactJS 
+- 🌐 &nbsp;  JavaScript | Bootstrap | Angular
 
-- 🛢 &nbsp; SQL | MySQL
+- 🛢 &nbsp; SQL 
 
-- 🔧 &nbsp; Git | Visual Studio Code
+- 🔧 &nbsp; Git | Visual Studio Code | Visual Studio
 
 
 
 <h3>🛠 Aprendiendo</h3>
 
-- 🔧 &nbsp; Typescript
+- 🔧 &nbsp; Typescript | C#
 
