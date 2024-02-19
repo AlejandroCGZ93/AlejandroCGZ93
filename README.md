@@ -7,9 +7,9 @@
 
 - 🎓 &nbsp; Estudio para ser Técnico en Desarrollo de Software en el IFTS Nº18(CABA).
 
-- 🌱 &nbsp; Me enfoco en el desarrollo web aunque también estoy interesado en ampliar mis fronteras del conocimiento en relacion a la programación en general.
+- 🌱 &nbsp; Me enfoco en el desarrollo web aunque también estoy interesado en ampliar mis fronteras del conocimiento en relacion a la desarrollo de software.
 
-- ✍️ &nbsp; Me gusta incorporar nuevos conocimiento y estar actualizado lo mejor posible.
+- ✍️ &nbsp; Me gusta incorporar nuevos conocimiento y estar actualizado constantemente.
 
 
 
@@ -17,9 +17,9 @@
 
 
 
-- 💻 &nbsp;  PHP | CodeIgniter | Python | C# | .NET
+- 💻 &nbsp;   C# | .NET
 
-- 🌐 &nbsp;  JavaScript | Bootstrap | Angular
+- 🌐 &nbsp;  JavaScript | Bootstrap | React JS
 
 - 🛢 &nbsp; SQL 
 
@@ -29,5 +29,5 @@
 
 <h3>🛠 Aprendiendo</h3>
 
-- 🔧 &nbsp; Typescript | C#
+- 🔧 &nbsp; Typescript 
 
