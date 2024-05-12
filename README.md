@@ -29,5 +29,5 @@
 
 <h3>🛠 Aprendiendo</h3>
 
-- 🔧 &nbsp; Typescript | Tailwindcss
+- 🔧 &nbsp; Typescript | Tailwindcss | Angular
 
