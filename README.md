@@ -17,7 +17,7 @@
 
 
 
-- 💻 &nbsp;   C# | .NET
+- 💻 &nbsp;   C# | .NET | Python
 
 - 🌐 &nbsp;  JavaScript | Bootstrap | React JS
 
