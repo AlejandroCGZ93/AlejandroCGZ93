@@ -23,11 +23,11 @@
 
 - 🛢 &nbsp; SQL 
 
-- 🔧 &nbsp; Git | Visual Studio Code | Visual Studio
+- 🔧 &nbsp; Git | Visual Studio Code | Visual Studio | Azure DevOps
 
 
 
 <h3>🛠 Aprendiendo</h3>
 
-- 🔧 &nbsp; Typescript | Tailwindcss | Angular
+- 🔧 &nbsp; Typescript | Tailwindcss | Angular | Python
 
