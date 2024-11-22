@@ -17,9 +17,9 @@
 
 
 
-- 💻 &nbsp;   C# | .NET | Python
+- 💻 &nbsp;   C# | .NET | Python 
 
-- 🌐 &nbsp;  JavaScript | Bootstrap | React JS
+- 🌐 &nbsp;  JavaScript | Typescript | Bootstrap | React JS | Angular
 
 - 🛢 &nbsp; SQL 
 
@@ -29,5 +29,5 @@
 
 <h3>🛠 Aprendiendo</h3>
 
-- 🔧 &nbsp; Typescript | Tailwindcss | Angular | Python
+- 🔧 &nbsp;  Typescript | Tailwindcss | NextJS | Django
 
